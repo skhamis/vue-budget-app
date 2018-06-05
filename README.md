@@ -1,6 +1,6 @@
 # vue-budgeting-auth
 
-> A project for learning vue.js
+> A project for learning vue.js using vue-cli webpack template with firebase auth.
 
 ## Build Setup
 
